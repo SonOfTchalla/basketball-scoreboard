@@ -36,3 +36,17 @@ body {
     background-color: #080001;
     margin: 5px 0px 10px 0px;
 }
+
+
+.container div #plus-1,
+.container div #plus-2,
+.container div #plus-3{
+    font-family: myFirstFont;
+    background-color: #1b244a;
+    border: 2px solid 
+    #9AABD8;
+    color: #9AABD8;
+    height: 40px;
+    width: 40px;
+    border-radius: 5px;
+}
