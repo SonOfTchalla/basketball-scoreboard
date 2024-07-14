@@ -17,14 +17,22 @@ body {
 .container h3{
     color: #fff;
     font-weight: bold;
+    margin: 0px;
 }
 
 .container div{
     text-align: center;
 }
 
+@font-face {
+    font-family: myFirstFont;
+    src: url(CursedTimerUlil-Aznm.ttf);
+}
+
 .container div h1{
+    font-family: myFirstFont;
     padding: 20px 0px;
     color: #f94f6d;
     background-color: #080001;
+    margin: 5px 0px 10px 0px;
 }
