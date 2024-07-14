@@ -18,3 +18,7 @@ body {
     color: #fff;
     font-weight: bold;
 }
+
+.container div{
+    text-align: center;
+}
