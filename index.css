@@ -22,3 +22,9 @@ body {
 .container div{
     text-align: center;
 }
+
+.container div h1{
+    padding: 20px 0px;
+    color: #f94f6d;
+    background-color: #080001;
+}
