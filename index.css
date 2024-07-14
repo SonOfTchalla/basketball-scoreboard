@@ -31,13 +31,14 @@ body {
 }
 
 .container div h1{
+    font-size: 80px;
     font-family: myFirstFont;
-    padding: 20px 0px;
+    padding: 20px 0px 0px 0px;
     color: #f94f6d;
     background-color: #080001;
-    margin: 5px 0px 10px 0px;
+    border-radius: 5px;
+    margin: 10px 0px 20px 0px;
 }
-
 
 .container div #plus-1,
 .container div #plus-2,
